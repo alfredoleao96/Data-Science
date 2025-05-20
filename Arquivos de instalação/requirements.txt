@@ -1,0 +1,38 @@
+##General Packages
+numpy
+pandas
+scikit-learn
+scipy
+ipykernel
+statsmodels
+patsy
+
+#package I missed
+openpyxl
+
+#Visualization packages
+matplotlib
+seaborn
+plotly
+
+
+#Lecture Specific Packages
+
+#Unsupervised
+yellowbrick
+
+#Time Series
+pmdarima
+
+#Text Analytics
+spacy
+nltk
+gensim
+wordcloud
+
+#Deep Learning
+tensorflow
+keras
+
+#Optimization
+pulp
